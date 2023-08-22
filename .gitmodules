@@ -1,0 +1,3 @@
+[submodule "InsightFaceREST"]
+	path = InsightFaceREST
+	url = https://github.com/jinghengkhoo/InsightFaceREST.git
